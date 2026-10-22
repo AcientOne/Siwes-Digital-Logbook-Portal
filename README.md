@@ -1,6 +1,6 @@
 # SIWES Management & Digital Logbook Portal
 
-**Course:** 317 System Analysis and Design Assignment  
+**Course:** Csc 317 System Analysis & Design 
 **Project Overview:**  
 A digital portal designed to streamline the Student Industrial Work Experience Scheme (SIWES) process. It allows students to log daily activities electronically, enables industry supervisors to review and approve logs, and provides academic supervisors with remote progress tracking and evaluation tools.
 
